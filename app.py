@@ -37,7 +37,7 @@ def set_bg(file_path):
     '''
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
-set_bg("background.avif")
+set_bg("abstract-wave-background-textured-wallpaper-topographic-wallpaper-dark_1053469-406.avif")
 
 # إعداد الثيمات
 THEME = st.session_state.get("theme", "dark")
